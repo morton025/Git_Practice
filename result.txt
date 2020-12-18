@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hash:7d8f082; Name:Refactored code; Time:10 days ago;
 Hash:99d1d0e; Name:Done project; Time:10 days ago;
 Hash:4b8e498; Name:Done script; Time:10 days ago;
